@@ -1,0 +1,25 @@
+{
+  "name": "decentralized-exchange-for-erc20-tokens",
+  "version": "1.0.0",
+  "description": "Decentralized Exchange to trade ERC20 tokens.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fritzhoy/Decentralized-Exchange-for-ERC20-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fritzhoy/Decentralized-Exchange-for-ERC20-tokens/issues"
+  },
+  "homepage": "https://github.com/Fritzhoy/Decentralized-Exchange-for-ERC20-tokens#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.0"
+  }
+}
